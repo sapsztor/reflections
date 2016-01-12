@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A hidden directory with metadata files created.
+The git uses this metadata to keep track changes made on files by user.
