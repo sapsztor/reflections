@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 A hidden directory with metadata files created.
 The git uses this metadata to keep track changes made on files by user.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+Add changed files per logical changes to staging area and commit, and then the next changes.
