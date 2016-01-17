@@ -1,2 +1,4 @@
 This is the 3. file on lesson 3
 Local commit..
+
+Masodik commit
