@@ -2,3 +2,12 @@ This is the 3. file on lesson 3
 Local commit..
 
 Masodik commit
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+If somebody makes commit on that same branch.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork - makes a new clone into my account on github.
+clones - makes a local copy of remote on github.
+brach - makes a new path on the local repository.
